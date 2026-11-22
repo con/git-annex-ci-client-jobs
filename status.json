@@ -7,7 +7,7 @@
         }
     },
     "smaug": {
-        "highest_build": 2570,
+        "highest_build": 2571,
         "tests": {
             "git-annex": "passing"
         }
